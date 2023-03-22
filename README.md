@@ -9,3 +9,5 @@ curl --location --request POST 'http://localhost:8080/booksData' \
     "booktext":"aaa"
 }'
 
+1. docker build -t bookstore:v2 .
+2. docker tag 
